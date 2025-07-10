@@ -1,5 +1,5 @@
 <?php 
-$ days = tuesday;
+$days = "tuesday";
 switch($days){
     case 'monday':
         echo "Today is Monday";
